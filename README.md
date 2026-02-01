@@ -6,7 +6,7 @@ I'm a software development student focused on building solid fundamentals throug
 I enjoy creating projects from scratch — from planning and structuring to solving real problems with code.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ollivmathe">
+  <a href="https://www.linkedin.com/in/olivmathe">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ollivmathe">
