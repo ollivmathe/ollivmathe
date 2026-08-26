@@ -1,9 +1,8 @@
 # Hi 👋 I'm Matheus
 
-**`Software Development Student | Backend-Oriented`**
+**`Systems Development Student | Backend & Software Architecture Enthusiast`**
 
-I'm a software development student focused on building solid fundamentals through practice.
-I enjoy creating projects from scratch — from planning and structuring to solving real problems with code.
+I'm a Systems Development student at Universidade Presbiteriana Mackenzie, with a strong interest in Software Architecture and backend engineering. I focus on building solid fundamentals through practice, enjoying the process of creating projects from scratch — from planning and structuring to solving real problems with code.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/olivmathe">
@@ -12,18 +11,12 @@ I enjoy creating projects from scratch — from planning and structuring to solv
   <a href="https://github.com/ollivmathe">
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/ollivmathe">
-    <img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </p>
 
 ---
 
 ### 🧰 Languages and Tools
-
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
